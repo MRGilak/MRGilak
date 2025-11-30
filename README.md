@@ -3,6 +3,6 @@
 I am Mohammadreza Gilak, a control engineering student in Sharif University of Technology. 
 My ineterests are control systems theory and design, mathematics and robotics.
 
-- 🔭 I’m currently working on control.
-- 🌱 I’m currently learning MATLAB, python and git. 
+- 🔭 I’m currently working on control theory and robotic projects.
+- 🌱 I’m learning MATLAB, Python, ROS, Pybullet, Linux and Git. 
 - 📫 How to reach me: on [linkedin](https://www.linkedin.com/in/mohammadreza-gilak-7aa830226/), [Google scholar](https://scholar.google.com/citations?user=sAYdpEwAAAAJ) or [my personal website](https://www.mgilak.ir)
