@@ -3,8 +3,8 @@
 I am **Mohammadreza Gilak**, a control engineering graduate student at **Sharif University of Technology**.  
 My interests include **control systems theory and design**, **mathematics**, and **robotics**.
 
-- 🔭 I’m currently working as a **Robotics Engineer** at [Fasta Robotics](https://fasta.technology/) and pursuing a **Master’s degree in Control Engineering** in the Electrical Engineering Department at Sharif University of Technology.
-- 🌱 I’m learning **Python**, **ROS**, **Linux**, and **Git**.
+- 🔭 I’m currently working as a **Robotics Engineer** and pursuing a **Master’s degree in Control Engineering** in the Electrical Engineering Department at Sharif University of Technology.
+- 🌱 I’m learning **Python**, **C++**, **ROS**, and **Linux**.
 - 📫 How to reach me: via [LinkedIn](https://www.linkedin.com/in/mohammadreza-gilak-7aa830226/) or via *mohammadreza.gilak@ee.sharif.edu*
 - 🎓 Visit my [Google Scholar](https://scholar.google.com/citations?user=sAYdpEwAAAAJ) or 🌐 [personal website](https://www.mgilak.ir)
 
@@ -21,11 +21,11 @@ My interests include **control systems theory and design**, **mathematics**, and
 
 **Programming**  
 - Python  
-- MATLAB  
+- MATLAB
+- Simulink
 
 **Tools**  
 - ROS  
-- Simulink  
 - Linux  
 
 **Control & Systems**  
