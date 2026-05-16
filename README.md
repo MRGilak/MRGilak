@@ -80,9 +80,7 @@ I am **Mohammadreza Gilak**, a control engineering graduate student at **Sharif 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MRGilak&theme=github_dark" />
 </div>
 
-<div align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MRGilak&theme=github_dark" />
-</div>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/MRGilak?cardType=github&theme=tokyonight&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 <br/>
 
